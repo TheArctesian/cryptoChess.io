@@ -7,6 +7,7 @@ The main front end for user activities outside of games
 ## Urgent
 
 - Init Vue, React or Svelte Project
+  - try svelet fuck you alan
 - Do structure
 - Figma style
 
